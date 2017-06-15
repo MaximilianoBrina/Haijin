@@ -1,14 +1,14 @@
 from random import randint
 
-lista1 = ["Ramas", "Hojas", "Ligustrinas", "Plantas","Arboledas"]#lista1 = ["Colorido", "Di�fano", "Delicioso", "Precioso", "Hermoso", "Macilento"]
-lista2 = ["ocres", "amarillas","doradas","marchitas", "secas", "muertas"]#lista2 = ["conciencia", "distancia", "orden", "caos", "correspondencia", "pensamiento"]
+lista1 = ["Ramas", "Hojas", "Ligustrinas", "Plantas","Arboledas"]
+lista2 = ["ocres", "amarillas","doradas","marchitas", "secas", "muertas"]
 
 lista3 = ["gracioso", "pantagruelico", "abatido", "sublime", "penoso", "sobrecogedor"]
-lista5 = ["verdadero", "oscuro", "frios", "ominoso"]
-lista4 = ["paisajes", "colores", "luces", "Invierno", "Otoño"]
+lista5 = ["verdadero", "oscuro", "ominoso"]
+lista4 = ["paisaje", "colorido", "luminoso", "Otoño"]
 
-lista6 = ["invaluable", "irrevocable", "irremplazanble", "increible"]
-lista7 = ["imaginacion", "inspiracion", "sabiduria", "pensamientos"]
+lista6 = ["invaluable", "irrevocable", "irremplazable"]
+lista7 = ["imaginacion", "inspiracion", "sabiduria"]
 
 listaIndice1 = randint(0, len(lista1) - 1)
 listaIndice2 = randint(0, len(lista2) - 1)
